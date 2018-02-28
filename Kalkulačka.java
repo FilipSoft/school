@@ -7,7 +7,7 @@ package kalkulačka;
 import java.util.Scanner;
 /**
  *
- * @author My
+ * @author FilipSoft
  */
 public class Kalkulačka {
 
