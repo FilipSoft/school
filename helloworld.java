@@ -1,4 +1,8 @@
 package onlineapp;
 class Program{
-public static void main(String[] args){        System.out.println("Hello ITnetwork!");}
+  
+public static void main(String[] args){  
+  
+  System.out.println("Hello ITnetwork!");}
+  
 }
