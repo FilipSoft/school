@@ -1,8 +1,8 @@
+//povinná casť kódu
 package onlineapp;
 class Program{
-  
 public static void main(String[] args){  
-  
-  System.out.println("Hello ITnetwork!");}
+//kód 
+  System.out.println("Hello World!");}
   
 }
